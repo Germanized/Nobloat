@@ -2,6 +2,8 @@
 
 Welcome to **NoBloat By Germanized**! This Python script helps you manage and remove bloatware from your Windows 10 or Windows 11 system. It provides a simple and interactive Command Line Interface (CLI) for scanning, selecting, and removing unwanted applications.
 
+![logo](https://github.com/Germanized/Nobloat/blob/main/logo.jpg)
+
 ## Features
 
 - **Interactive CLI**: A text-based user interface to scan for and manage bloatware.
